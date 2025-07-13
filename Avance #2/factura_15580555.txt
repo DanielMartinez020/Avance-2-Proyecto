@@ -1,0 +1,3 @@
+Factura para: Daniel
+Mango x1 - $1000.5
+Total: $1000.5

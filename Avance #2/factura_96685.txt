@@ -1,0 +1,3 @@
+Factura para: Alonso
+Pollo  x25 - $750012.5
+Total: $750012.5

@@ -1,0 +1,3 @@
+Factura para: Sara
+Pollo x1 - $700.5
+Total: $700.5

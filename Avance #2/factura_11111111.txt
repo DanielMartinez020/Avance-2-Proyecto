@@ -1,0 +1,3 @@
+Factura para: Luis 
+Pollo x1 - $10000.0
+Total: $10000.0

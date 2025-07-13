@@ -1,0 +1,3 @@
+Factura para: Lilliam López
+Maiz x2 - $10000.0
+Total: $10000.0

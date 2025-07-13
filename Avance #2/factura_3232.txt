@@ -1,0 +1,3 @@
+Factura para: SDSAFASDFASD
+Carne x2 - $100001.0
+Total: $100001.0

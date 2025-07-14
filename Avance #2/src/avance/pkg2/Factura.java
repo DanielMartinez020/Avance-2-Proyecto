@@ -1,5 +1,6 @@
 package avance.pkg2;
 
+import javax.swing.JOptionPane;
 import java.io.*;
 import java.util.*;
 
@@ -44,4 +45,4 @@ public class Factura {
     }
 }
 
-}
+

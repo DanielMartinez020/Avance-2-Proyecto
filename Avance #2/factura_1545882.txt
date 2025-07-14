@@ -1,0 +1,4 @@
+Factura para: Laura
+Maiz Dulce x2 - $401.0
+Mani x1 - $300.0
+Total: $701.0
